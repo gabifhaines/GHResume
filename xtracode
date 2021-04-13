@@ -68,13 +68,13 @@
         My career goals primarily revolve around writing for a living - as long as I can make a career out of writing, I’ll be happy. I want to use my English degree for a variety of fields, including journalism, editing, and technical writing. I plan on getting a technical writing certificate from UCR’s continuation school in order to pursue a path as a technical writer after graduation this year. However, I also want to apply to internships that showcase other aspects of writing, such as marketing, blog writing, publishing, editing, and research. I want to gain experience in various types of writing, so taking on internships or jobs with contrasting types of work will hopefully benefit me in the end. While choosing one path is difficult, I’m confident that I can excel in various jobs with the help of my English degree. After a few years working with my English degree, I’m hoping to head back to school to get another degree in Computer Science or a related field. This will allow me to become more well rounded in other areas beyond English, and hopefully I can relate my English skills to a more technical field in order to break into technical writing. 
         </p>
         <div class="social-icons">
-          <a target="_blank" id="socialicon-1" href="https://www.linkedin.com/school/university-of-california-riverside/">
+          <a target="_blank" id="socialicon-1" href="https://linkedin.com">
             <i class="fab fa-linkedin-in"></i>
           </a>
           <a target="_blank" id="socialicon-2" href="https://github.com/gabifhaines">
             <i class="fab fa-github"></i>
           </a>
-          <a target="_blank" id="socialicon-3" href="https://twitter.com/UCRiverside?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+          <a target="_blank" id="socialicon-3" href="https://twitter.com">
             <i class="fab fa-twitter"></i>
           </a>
           <a target="_blank" id="socialicon-4" href="mailto:gabriellahaineswork@gmail.com">
@@ -190,3 +190,5 @@
   <script src="js/resume.min.js"></script>
 </body>
 </html>
+
+git remote set-url origin https://github.com/gabifhaines/GabriellaHaines-Resume.git
